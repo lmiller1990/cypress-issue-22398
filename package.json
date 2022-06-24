@@ -1,0 +1,13 @@
+{
+  "name": "lerna4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "build": "node packages/foo/index.js",
+    "install": "yarn lerna exec yarn"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "foo",
+  "dependencies": {
+    "html-webpack-plugin": "^5"
+  }
+}
